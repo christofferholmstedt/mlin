@@ -52,6 +52,10 @@ Window {
 
         Rectangle {
             id: main
+
+            MouseArea {
+                id: random_Mousearea
+            }
         }
     }
 }
